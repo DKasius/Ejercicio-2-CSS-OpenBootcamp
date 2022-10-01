@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+div img{
+    width: 300px;
+
+
+}
+
+.galeria{
+    display: flex;
+    height: 150px;
+    flex-wrap: wrap;
+}
+
+
